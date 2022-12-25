@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ohnoLaveesh
 - 👀 I’m interested in Web Development & App Development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java & Javascript
 - 💞️ I’m looking to collaborate on Android Game Development
 - 📫 How to reach me - You can mail me on - leonixet0@gmail.com
 
